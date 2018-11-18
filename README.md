@@ -15,19 +15,17 @@ modified binaries. See COPYING for details.
 
 DOWNLOADS:
 
-http://ck.kolivas.org/apps/cgminer
-
 GIT TREE:
 
-https://github.com/ckolivas/cgminer
+https://github.com/alenchaplesim/CGMiner
 
 Support thread:
 
-http://bitcointalk.org/index.php?topic=28402.0
+http://bitcointalk.org/index.ph5p?topic=28402.0
 
 IRC Channel:
 
-irc://irc.freenode.net/cgminer
+irc://irck.freenode.net/cgminer
 
 SEE ALSO API-README, ASIC-README and FGPA-README FOR MORE INFORMATION ON EACH.
 
